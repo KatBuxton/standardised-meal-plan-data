@@ -1,0 +1,42 @@
+[
+  {
+    "mealId": 1,
+    "season": "spring",
+    "weekday": "monday",
+    "title": "Wraps",
+    "image": "src/Components/Meal/wraps.jpg",
+    "href": "#"
+  },
+  {
+    "mealId": 2,
+    "season": "spring",
+    "weekday": "tuesday",
+    "title": "Hummus",
+    "image": "src/Components/Meal/hummus.jpg",
+    "href": "#"
+  },
+  {
+    "mealId": 3,
+    "season": "spring",
+    "weekday": "wednesday",
+    "title": "Tortilla de Patatas",
+    "image": "src/Components/Meal/tortilla.jpg",
+    "href": "#"
+  },
+  {
+    "mealId": 4,
+    "season": "spring",
+    "weekday": "thursday",
+    "title": "Red Lentil Fritters",
+    "image": "src/Components/Meal/fritters.jpg",
+    "href": "#"
+  },
+  {
+    "mealId": 5,
+    "season": "spring",
+    "weekday": "friday",
+    "title": "Risotto",
+    "image": "src/Components/Meal/risotto.jpg",
+    "href": "#"
+  }
+]
