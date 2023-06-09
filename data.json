@@ -1,42 +1,72 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "season": "spring",
     "weekday": "monday",
     "title": "Wraps",
-    "image": "src/Components/Meal/wraps.jpg",
-    "href": "wraps"
+    "image": "src/Components/Meal/wraps.jpg"
   },
   {
-    "id": 2,
+    "id": "2",
     "season": "spring",
     "weekday": "tuesday",
     "title": "Hummus",
-    "image": "src/Components/Meal/hummus.jpg",
-    "href": "hummus"
+    "image": "src/Components/Meal/hummus.jpg"
   },
   {
-    "id": 3,
+    "id": "3",
     "season": "spring",
     "weekday": "wednesday",
     "title": "Tortilla de Patatas",
-    "image": "src/Components/Meal/tortilla.jpg",
-    "href": "tortilla"
+    "image": "src/Components/Meal/tortilla.jpg"
   },
   {
-    "id": 4,
+    "id": "4",
     "season": "spring",
     "weekday": "thursday",
     "title": "Red Lentil Fritters",
-    "image": "src/Components/Meal/fritters.jpg",
-    "href": "fritters"
+    "image": "src/Components/Meal/fritters.jpg"
   },
   {
-    "id": 5,
+    "id": "5",
     "season": "spring",
     "weekday": "friday",
     "title": "Risotto",
-    "image": "src/Components/Meal/risotto.jpg",
-    "href": "risotto"
+    "image": "src/Components/Meal/risotto.jpg"
+  },
+  {
+    "id": "6",
+    "season": "summer",
+    "weekday": "monday",
+    "title": "Fresh Salad",
+    "image": "src/Components/Meal/salad.jpg"
+  },
+  {
+    "id": "7",
+    "season": "summer",
+    "weekday": "tuesday",
+    "title": "Fish",
+    "image": "src/Components/Meal/fish.jpg"
+  },
+  {
+    "id": "8",
+    "season": "summer",
+    "weekday": "wednesday",
+    "title": "Couscous Bowl",
+    "image": "src/Components/Meal/couscous.jpg"
+  },
+  {
+    "id": "9",
+    "season": "summer",
+    "weekday": "thursday",
+    "title": "Minestrone",
+    "image": "src/Components/Meal/minestrone.jpg"
+  },
+  {
+    "id": "10",
+    "season": "summer",
+    "weekday": "friday",
+    "title": "Asian-style Noodle Salad",
+    "image": "src/Components/Meal/asian-salad.jpg"
   }
 ]
