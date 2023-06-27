@@ -4,69 +4,69 @@
     "season": "spring",
     "weekday": "monday",
     "title": "Wraps",
-    "image": "public/meal-images/wraps.jpg"
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/dc413220-a900-4fbf-80d6-923d99fe3c58"
   },
   {
     "id": "2",
     "season": "spring",
     "weekday": "tuesday",
     "title": "Hummus",
-    "image": "public/meal-images/hummus.jpg"
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/275c9eca-e14f-4a60-8adf-47934c81d4aa"
   },
   {
     "id": "3",
     "season": "spring",
     "weekday": "wednesday",
     "title": "Tortilla de Patatas",
-    "image": "public/meal-images/tortilla.jpg"
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/443d9f8a-02f0-430a-8be8-be6553bec99f"
   },
   {
     "id": "4",
     "season": "spring",
     "weekday": "thursday",
     "title": "Red Lentil Fritters",
-    "image": "public/meal-images/fritters.jpg"
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/bb3652ba-ebd3-4c35-b94a-8d088f4de5b9"
   },
   {
     "id": "5",
     "season": "spring",
     "weekday": "friday",
     "title": "Risotto",
-    "image": "public/meal-images/risotto.jpg"
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/cebed2ce-be36-4e4e-a4f2-b65b0c13c087"
   },
   {
     "id": "6",
     "season": "summer",
     "weekday": "monday",
     "title": "Fresh Salad",
-    "image": "public/meal-images/salad.jpg"
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/37697c18-f349-4671-a287-ec5187ec21dc"
   },
   {
     "id": "7",
     "season": "summer",
     "weekday": "tuesday",
     "title": "Fish",
-    "image": "public/meal-images/fish.jpg"
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/510589c8-25e2-454d-824c-58bd843cef1b"
   },
   {
     "id": "8",
     "season": "summer",
     "weekday": "wednesday",
     "title": "Couscous Bowl",
-    "image": "public/meal-images/couscous.jpg"
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/6dd08f7f-3aca-48f7-9191-95cecaeadfa0"
   },
   {
     "id": "9",
     "season": "summer",
     "weekday": "thursday",
     "title": "Minestrone",
-    "image": "public/meal-images/minestrone.jpg"
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/0aee4be4-6858-411f-86c5-84168e7e1af9"
   },
   {
     "id": "10",
     "season": "summer",
     "weekday": "friday",
     "title": "Asian-style Noodle Salad",
-    "image": "public/meal-images/asian-salad.jpg"
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/23155102-22f1-4c2b-96e3-fe198cc8c7d3"
   }
 ]
