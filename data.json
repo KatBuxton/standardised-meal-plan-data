@@ -68,5 +68,40 @@
     "weekday": "friday",
     "title": "Asian-style Noodle Salad",
     "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/23155102-22f1-4c2b-96e3-fe198cc8c7d3"
+  },
+  {
+    "id": "11",
+    "season": "autumn",
+    "weekday": "monday",
+    "title": "Creamy Veggie Soup",
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/84457524-f80c-44ec-ad11-ecf8e1abc2ef"
+  },
+  {
+    "id": "12",
+    "season": "autumn",
+    "weekday": "tuesday",
+    "title": "Shakshouka",
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/e406c06c-da37-424e-961d-c6245afdfb28"
+  },
+  {
+    "id": "13",
+    "season": "autumn",
+    "weekday": "wednesday",
+    "title": "Pizza",
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/38732ca2-449e-41e4-b4b4-b5e3ac222b05"
+  },
+  {
+    "id": "14",
+    "season": "autumn",
+    "weekday": "thursday",
+    "title": "Lentil Dahl",
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/a083a321-e4fe-4f6c-aeb9-739b54a6dbdb"
+  },
+  {
+    "id": "15",
+    "season": "autumn",
+    "weekday": "friday",
+    "title": "Clear Noodle Soup",
+    "image": "https://github.com/KatBuxton/standardised-meal-plan-data/assets/101291722/117dffd8-b714-4592-97c9-5333416f82c3"
   }
 ]
