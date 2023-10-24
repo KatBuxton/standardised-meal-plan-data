@@ -89,7 +89,7 @@
     "weekday": "wednesday",
     "title": "Pizza",
     "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/pizza.jpg",
-    "image-compressed": "https://katbuxton.github.io/standardised-meal-plan-data/images/pizza-compressed.jpg"
+    "imageCompressed": "https://katbuxton.github.io/standardised-meal-plan-data/images/pizza-compressed.jpg"
   },
   {
     "id": "14",
