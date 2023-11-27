@@ -46,7 +46,7 @@
     "season": "summer",
     "weekday": "tuesday",
     "title": "Fish",
-    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/fish.jpg"
+    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/fish.png"
   },
   {
     "id": "8",
@@ -129,7 +129,7 @@
     "id": "19",
     "season": "winter",
     "weekday": "thursday",
-    "title": "Winter Veggie Soup with Dumplings",
+    "title": "Soup with Dumplings",
     "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/dumpling-soup.png"
   },
   {
