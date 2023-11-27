@@ -7,7 +7,8 @@
     "step 3": "Prepare dressing",
     "step 4": "",
     "step 5": "",
-    "step 6": ""
+    "step 6": "",
+    "step 7": ""
   },
   {
     "id": "2",
@@ -17,7 +18,8 @@
     "step 3": "",
     "step 4": "",
     "step 5": "",
-    "step 6": ""
+    "step 6": "",
+    "step 7": ""
   },
   {
     "id": "3",
@@ -27,7 +29,8 @@
     "step 3": "",
     "step 4": "",
     "step 5": "",
-    "step 6": ""
+    "step 6": "",
+    "step 7": ""
   },
   {
     "id": "4",
@@ -37,7 +40,8 @@
     "step 3": "",
     "step 4": "",
     "step 5": "",
-    "step 6": ""
+    "step 6": "",
+    "step 7": ""
   },
   {
     "id": "5",
@@ -47,7 +51,8 @@
     "step 3": "",
     "step 4": "",
     "step 5": "",
-    "step 6": ""
+    "step 6": "",
+    "step 7": ""
   },
   {
     "id": "6",
@@ -57,17 +62,19 @@
     "step 3": "Add dressing just before serving. A simple dressing is made of 1 part oil (olive oil, tahini, peanut butter), 1 part water, 1 tablespoon acidic (lemon juice, vinegar, mustard), 1/2 teaspoon syrup, 1/2 salt.",
     "step 4": "",
     "step 5": "",
-    "step 6": ""
+    "step 6": "",
+    "step 7": ""
   },
   {
     "id": "7",
     "title": "Fish",
     "step 1": "Peel the potatoes, cut into chunks of same size and rinse. Then put in a pot of salted water and bring to boil. Boil for about 20 minutes.",
-    "step 2": "In the meantime prepare the fish. Rinse the filets and either bake in the oven or grill on the pan. Don't forget a bit of oil and season with salt and pepper. Bake for few minutes only to not dry it out. ",
+    "step 2": "In the meantime prepare the fish. Rinse the fillets and either bake in the oven or grill on the pan. Don't forget a bit of oil and season with salt and pepper. Bake for few minutes only to not dry it out. ",
     "step 3": "If you are making salad (instead of potatoes or as a side) then chop everything for it and place in a bowl. Add dressing just before serving.",
     "step 4": "",
     "step 5": "",
-    "step 6": ""
+    "step 6": "",
+    "step 7": ""
   },
   {
     "id": "8",
@@ -77,7 +84,8 @@
     "step 3": "Add seeds, roasted tofu, tuna or anything else.",
     "step 4": "Add dressing just before serving. A simple dressing is made of 1 part oil (olive oil, tahini, peanut butter), 1 part water, 1 tablespoon acidic (lemon juice, vinegar, mustard), 1/2 teaspoon syrup, 1/2 salt.",
     "step 5": "",
-    "step 6": ""
+    "step 6": "",
+    "step 7": ""
   },
   {
     "id": "9",
@@ -87,7 +95,8 @@
     "step 3": "Add the stock, tomato passata, tomatoes, bay leaf, thyme, oregano, slat and pepper and bring to boil. When boiling add courgette and boil until courgette is soft (about 5 minutes). ",
     "step 4": "Prepare orzo or other tiny pasta as instructed on the wrapper or by adding it directly in the soup.",
     "step 5": "A minute before finishing add the white beans and season all to taste",
-    "step 6": "Serve with fresh basil and parmesan cheese."
+    "step 6": "Serve with fresh basil and parmesan cheese.",
+    "step 7": ""
   },
   {
     "id": "10",
@@ -97,7 +106,8 @@
     "step 3": "Chop up the fresh herbs and peanuts.",
     "step 4": "Assemble salad adding roasted tofu or anything else.",
     "step 5": "Add the dressing just before serving. Dressing is made of 2-3 tablespoons of peanut butter, 1 tb lemon juice, 1 teaspoon syrup, 2-3 tablespoons of water, 2 tablespoons soy sauce, 1 garlic clove and optionally chilli. Should be creamy, else add peanut butter.",
-    "step 6": ""
+    "step 6": "",
+    "step 7": ""
   },
   {
     "id": "11",
@@ -148,7 +158,56 @@
     "step 3": "",
     "step 4": "",
     "step 5": "",
-    "step 6": "",
-    "step 7": ""
+    "step 6": ""
+  },
+  {
+    "id": "16",
+    "title": "Pasta",
+    "step 1": "Boil water in a large pot and a spoonfull of salt. Add pasta and boil until soft.",
+    "step 2": "Prepare pasta sauce by heating up store-bought or cooking from scratch",
+    "step 3": "",
+    "step 4": "",
+    "step 5": "",
+    "step 6": ""
+  },
+  {
+    "id": "17",
+    "title": "Curry with Rice",
+    "step 1": "In a large pan, heat up some oil, add chopped onion. When onion is soft add garlic and spice and fry for 1 minute. Than pour in the cream and tomatoes. Add chickpeas and other potential ingredients (mushrooms, veg). ",
+    "step 2": "Bring the curry to boil, taste the sauce and add seasoning if needed. Let simmer for 10-15 minutes minimum to allow all of the tastes to blend.",
+    "step 3": "Boil rice in the instant pressure cooker: Rinse 1 cup of rice and put it in the cooker, add 2 cups of water and a teaspoon of salt. Set the cooker to pressure cook for 3 minutes at pressure of 30.",
+    "step 4": "",
+    "step 5": "",
+    "step 6": ""
+  },
+  {
+    "id": "18",
+    "title": "Stir-fry",
+    "step 1": "Heat up oil in a large frying pan and fry the tofu until crispy. Add the veg and season with soy sauce & optionally 1 spoon of peanut butter/ tahini. ",
+    "step 2": "Pre-cook or soak noodles according to instructions on packaging. Keep it on the firmer side as it will continue to cook once mixed in with the stir-fry.",
+    "step 3": "Add noodles to the pan, take of heat and mix well.",
+    "step 4": "",
+    "step 5": "",
+    "step 6": ""
+  },
+  {
+    "id": "19",
+    "title": "Winter Veggie Soup with Dumplings",
+    "step 1": "Bring to boil pre-made stock or create stock by mixing 1 litre of boiling water with 2 stock cubes. ",
+    "step 2": "Add any veggies and liver dumplings. Simmer together until dumplings are cooked through. ",
+    "step 3": "",
+    "step 4": "",
+    "step 5": "",
+    "step 6": ""
+  },
+  {
+    "id": "20",
+    "title": "Fish ",
+    "step 1": "Peel the potatoes, cut into chunks of same size and rinse. Then put in a pot of salted water and bring to boil. Boil for about 20 minutes.",
+    "step 2": "In the meantime prepare the fish. Rinse the fillets and either bake in the oven or grill on the pan. Don't forget a bit of oil and season with salt and pepper. Bake for few minutes only to not dry it out. ",
+    "step 3": "If you are making salad (instead of potatoes or as a side) then chop everything for it and place in a bowl. Add dressing just before serving.",
+    "step 4": "",
+    "step 5": "",
+    "step 6": ""
   }
 ]
