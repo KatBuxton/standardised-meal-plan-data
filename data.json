@@ -11,7 +11,7 @@
     "season": "spring",
     "weekday": "tuesday",
     "title": "Hummus",
-    "image": "https://katbuxton.github.io/standardised-meal-plan-data/hummus.jpg"
+    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/hummus.jpg"
   },
   {
     "id": "3",
@@ -32,7 +32,7 @@
     "season": "spring",
     "weekday": "friday",
     "title": "Risotto",
-    "image": "https://katbuxton.github.io/standardised-meal-plan-data/risotto.jpg"
+    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/risotto.jpg"
   },
   {
     "id": "6",
