@@ -88,8 +88,7 @@
     "season": "autumn",
     "weekday": "wednesday",
     "title": "Pizza",
-    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/pizza.jpg",
-    "imageCompressed": "https://katbuxton.github.io/standardised-meal-plan-data/images/pizza-compressed.jpg"
+    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/pizza.jpg"
   },
   {
     "id": "14",
@@ -104,5 +103,40 @@
     "weekday": "friday",
     "title": "Clear Noodle Soup",
     "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/clear-soup.jpg"
+  },
+  {
+    "id": "16",
+    "season": "winter",
+    "weekday": "monday",
+    "title": "Pasta",
+    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/spaghetti.png"
+  },
+  {
+    "id": "17",
+    "season": "winter",
+    "weekday": "tuesday",
+    "title": "Curry",
+    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/curry.png"
+  },
+  {
+    "id": "18",
+    "season": "winter",
+    "weekday": "wednesday",
+    "title": "Stir-fry",
+    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/stir-fry.png"
+  },
+  {
+    "id": "19",
+    "season": "winter",
+    "weekday": "thursday",
+    "title": "Winter Veggie Soup with Dumplings",
+    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/dumpling-soup.png"
+  },
+  {
+    "id": "20",
+    "season": "winter",
+    "weekday": "friday",
+    "title": "Fish",
+    "image": "https://katbuxton.github.io/standardised-meal-plan-data/images/fish.png"
   }
 ]
